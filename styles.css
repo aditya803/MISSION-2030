@@ -1,0 +1,27 @@
+h1{
+    font-family: Fresca;
+    text-align: center;
+    font-size: 75px;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.img-border{
+    border-color: khaki;
+    border-image-width: 150px;
+    border-style: solid;
+}
+p{
+    font-family: Libre Baskerville;
+}
+a{
+    font-family: monospace
+}
+em{
+    font-family: Roboto Slab;
+}
+h2{
+    font-family: Oswald;
+    text-align: left;
+}
